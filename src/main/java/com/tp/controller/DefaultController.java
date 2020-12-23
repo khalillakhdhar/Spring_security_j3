@@ -25,4 +25,6 @@ public String datapost()
 {
 return "you are posting data";	
 }
+@GetMapping("home")
+
 }
